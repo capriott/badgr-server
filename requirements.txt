@@ -1,3 +1,5 @@
+# Cineca fix
+setuptools==18.5
 # Django stuff
 Django==1.11.20
 semver==2.6.0
